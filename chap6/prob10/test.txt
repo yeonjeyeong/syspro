@@ -1,0 +1,4 @@
+ls-sl
+star
+ls-i
+touch
